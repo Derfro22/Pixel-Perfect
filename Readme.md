@@ -1,1 +1,1 @@
-# Premier exercice avec modèle Figma
+# First exercise with Figma
